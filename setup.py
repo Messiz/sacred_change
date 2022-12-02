@@ -41,7 +41,7 @@ setup(
     install_requires=[
         'docopt',
         'jsonpickle',
-        'munch',
+#         'munch',
 #         'wrapt==1.0'
     ],
     tests_require=[
