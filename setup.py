@@ -39,7 +39,7 @@ setup(
     packages=['sacred', 'sacred.observers', 'sacred.config', 'sacred.stflow'],
     scripts=[],
     install_requires=[
-        'docopt',
+#         'docopt',
         'jsonpickle',
 #         'munch',
 #         'wrapt==1.0'
