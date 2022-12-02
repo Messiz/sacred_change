@@ -39,9 +39,9 @@ setup(
     packages=['sacred', 'sacred.observers', 'sacred.config', 'sacred.stflow'],
     scripts=[],
     install_requires=[
-        'docopt==0.3',
-        'jsonpickle==0.7.2',
-        'munch==2.0.2',
+        'docopt',
+        'jsonpickle',
+        'munch',
 #         'wrapt==1.0'
     ],
     tests_require=[
